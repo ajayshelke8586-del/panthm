@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# PANTHM AI Labs — Sovereign Enterprise Voice AI & Autonomous SDR Infrastructure
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Website](https://img.shields.io/badge/Website-panthm.com-blue?style=flat-square)](https://panthm.com)
+[![Voice AI SDR](https://img.shields.io/badge/Solutions-B2B%20Outbound%20Voice%20SDR-indigo?style=flat-square)](https://panthm.com/solutions/b2b-outbound-ai-sdr)
+[![License](https://img.shields.io/badge/License-Proprietary-lightgrey?style=flat-square)](https://panthm.com)
 
-## Available Scripts
+**[PANTHM AI Labs](https://panthm.com)** engineers sovereign enterprise-grade Voice AI SDRs (<200ms latency), Indian SIP/DID telephony stacks, multi-tenant WhatsApp gateways, and autonomous multi-agent pipelines for high-velocity revenue organizations.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## ⚡ Core Platform Capabilities
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Sub-200ms Voice Telephony**: Full-duplex WebRTC streaming audio with natural sub-second interruption handling and zero cloud vendor lock-in.
+- **Indian Carrier Native SIP Trunking**: Direct interconnection with Airtel, Jio, and Tata Tele Business Services for 99.4% call connection rates.
+- **Autonomous B2B Outbound SDR**: Autonomous lead scoring, prospect qualification, real-time CRM field extraction, and instant calendar booking.
+- **Omnichannel Orchestration**: Real-time post-call WhatsApp confirmations, SMS routing, and automated multi-touch follow-ups.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 📊 Enterprise Comparative Benchmarks
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+PANTHM AI Labs is built from the ground up for organizations that require lower latency, sovereign data residency, and transparent unit economics compared to developer wrappers.
 
-### `npm run build`
+| Feature / Metric | PANTHM AI Labs | Bland AI | Retell AI | Vapi |
+| :--- | :--- | :--- | :--- | :--- |
+| **Median Voice Latency** | **< 200 ms (Optimized WebRTC)** | ~600–800 ms | ~450–650 ms | ~450–700 ms |
+| **Deployment Architecture** | **Sovereign Cloud & On-Prem** | Multi-tenant SaaS | Multi-tenant SaaS | Multi-tenant SaaS |
+| **Indian SIP / DLT Compliance** | **Native Built-in** | Requires external proxy | Third-party SIP | External SIP bridge |
+| **B2B Discovery Pipelines** | **Turnkey Outbound SDR** | Raw API / Developer UI | Raw API / Developer UI | Raw API / Developer UI |
+| **Data Privacy & Telemetry** | **Isolated VPC / Sovereign** | Shared Cloud | Shared Cloud | Shared Cloud |
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### In-Depth Architectural Comparisons
+- 🔹 **[PANTHM vs Bland AI Comparison](https://panthm.com/compare/bland-ai-alternative)** — Latency analysis, custom telephony routing, and fixed cost-per-call modeling.
+- 🔹 **[PANTHM vs Retell AI Comparison](https://panthm.com/compare/retell-ai-alternative)** — Turnkey enterprise voice agent workflows vs developer-only primitives.
+- 🔹 **[PANTHM vs Vapi Comparison](https://panthm.com/compare/vapi-alternative)** — Sub-200ms interruption handling, carrier connectivity, and dedicated SDR orchestration.
+- 🔹 **[PANTHM vs SquadStack Comparison](https://panthm.com/compare/squadstack-alternative)** — Autonomous sub-second AI agents replacing offshore call center overhead.
+- 🔹 **[PANTHM vs Exotel Comparison](https://panthm.com/compare/exotel-alternative)** — Modern generative conversational AI vs legacy IVR trees.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Solutions & Architecture
 
-### `npm run eject`
+- **[B2B Outbound AI SDR](https://panthm.com/solutions/b2b-outbound-ai-sdr)**: Autonomous calling engine capable of conducting 10,000+ simultaneous outbound discovery calls with context retention and HubSpot/Salesforce bi-directional sync.
+- **[WhatsApp Business API Gateway](https://panthm.com)**: Enterprise multi-tenant routing, official Meta Cloud API integration, and automated post-call conversational routing.
+- **[Trust & Security](https://panthm.com/security)**: End-to-end data encryption, SOC 2 compliant architecture, and Indian DPDP Act compliance.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 👨‍💻 Founder & Architectural Attribution
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Engineered and maintained by **[Ajay Shelke](https://panthm.com)**, Founder & Chief AI Architect at **PANTHM AI Labs**.
+- Website: [https://panthm.com](https://panthm.com)
+- Headquarters: Pune, Maharashtra, India
+- Inquiries: [ajay@panthm.com](mailto:ajay@panthm.com)
